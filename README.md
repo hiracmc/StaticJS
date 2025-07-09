@@ -3,7 +3,10 @@
 
 ## 使い方
 ```
-<script src="https://hiracmc.github.io/StaticJS/static.js"><script>
 <link href="https://hiracmc.github.io/StaticJS/static.css" rel="stylesheet" />
 ```
-これをheadに追加するだけ
+これをheadに追加して
+```
+<script src="https://hiracmc.github.io/StaticJS/static.js"><script>
+```
+これをbodyに追加するだけ!
