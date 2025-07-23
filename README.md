@@ -1,6 +1,6 @@
 # StaticJS
 自分用に作った
-
+動かないです
 ## 使い方
 ```
 <link href="https://hiracmc.github.io/StaticJS/static.css" rel="stylesheet" />
